@@ -18,7 +18,6 @@ Usage: python3 smbMailBomb2.py -e user@yourGoogleDomain.com -p yourGooglePasswor
   -p your google password
   -ip your capture server IP
 #### Requirments:
-  pandas==0.23.4
-  colorama==0.3.9
+ pip install -r requirments.txt
 #### XLSX:
 Add your targets first name and email, following the template provided.

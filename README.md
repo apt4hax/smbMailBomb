@@ -1,5 +1,5 @@
 # smbMailBomb
- A command line utility to test for SMB Forced Authentication
+A command line utility to test for SMB Forced Authentication
 
 Set Up Capture Server
 Ensure SMB ports 139 and 445 are open on your captuer server

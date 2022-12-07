@@ -43,7 +43,7 @@ for i in range(len(df)):
   <body>
     <p>Just wanted to quickly say thank you for all your help last week<br>
          <img src="file://{ip}/image/alt.jpg"><br></br> 
-         Michael<br>
+         Mike<br>
         </p>
       </body>
     </html>

